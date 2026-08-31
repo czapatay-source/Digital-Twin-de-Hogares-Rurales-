@@ -1,0 +1,6 @@
+{
+  "name": "Digital Livelihood Twin (DLT)",
+  "description": "Plataforma de Gemelo Digital Socioeconómico y Climático para Evaluación y Simulación de Políticas CCT en América Latina con modelos FGT, MPI, Prospect Theory ABM y 3D interactivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
